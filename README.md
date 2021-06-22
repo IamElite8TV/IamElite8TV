@@ -1,5 +1,6 @@
 ### Hello, I'm Constantin (aka. IamElite8TV)👋
-<h3 align="center">A passionate Founder from Luxemburg.</h3>
+### A passionate Founder from Luxemburg.
+
 ---
 
 <details>
