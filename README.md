@@ -6,7 +6,7 @@
   <summary>My Projects</summary>
   
 <!--START_SECTION:activity-->
-1. Byteserv [#1](https://byteserv.eu)
+1. Byteserv (https://byteserv.eu)
 <!--END_SECTION:activity-->
 
 </details>
